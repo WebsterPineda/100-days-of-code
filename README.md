@@ -19,6 +19,11 @@ As part of [100 Days of Code](https://www.100daysofcode.com/) i decided today to
 
 ## Log
 
+### Day 1
+
+Learned about abstract keyword in C# abstract and interface differences.
+One small step...
+
 ### Initial Setup
 
 all apps already installed and dev environment ready to start.

@@ -1,0 +1,15 @@
+C:\repo\100-days-of-code\001\BasisOOP\obj\Debug\net6.0\BasisOOP.csproj.AssemblyReference.cache
+C:\repo\100-days-of-code\001\BasisOOP\obj\Debug\net6.0\BasisOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\100-days-of-code\001\BasisOOP\obj\Debug\net6.0\BasisOOP.AssemblyInfoInputs.cache
+C:\repo\100-days-of-code\001\BasisOOP\obj\Debug\net6.0\BasisOOP.AssemblyInfo.cs
+C:\repo\100-days-of-code\001\BasisOOP\obj\Debug\net6.0\BasisOOP.csproj.CoreCompileInputs.cache
+C:\repo\100-days-of-code\001\BasisOOP\bin\Debug\net6.0\BasisOOP.exe
+C:\repo\100-days-of-code\001\BasisOOP\bin\Debug\net6.0\BasisOOP.deps.json
+C:\repo\100-days-of-code\001\BasisOOP\bin\Debug\net6.0\BasisOOP.runtimeconfig.json
+C:\repo\100-days-of-code\001\BasisOOP\bin\Debug\net6.0\BasisOOP.dll
+C:\repo\100-days-of-code\001\BasisOOP\bin\Debug\net6.0\ref\BasisOOP.dll
+C:\repo\100-days-of-code\001\BasisOOP\bin\Debug\net6.0\BasisOOP.pdb
+C:\repo\100-days-of-code\001\BasisOOP\obj\Debug\net6.0\BasisOOP.dll
+C:\repo\100-days-of-code\001\BasisOOP\obj\Debug\net6.0\ref\BasisOOP.dll
+C:\repo\100-days-of-code\001\BasisOOP\obj\Debug\net6.0\BasisOOP.pdb
+C:\repo\100-days-of-code\001\BasisOOP\obj\Debug\net6.0\BasisOOP.genruntimeconfig.cache
