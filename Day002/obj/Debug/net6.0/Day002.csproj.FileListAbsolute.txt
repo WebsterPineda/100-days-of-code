@@ -1,0 +1,15 @@
+C:\repo\100-days-of-code\Day002\bin\Debug\net6.0\Day002.exe
+C:\repo\100-days-of-code\Day002\bin\Debug\net6.0\Day002.deps.json
+C:\repo\100-days-of-code\Day002\bin\Debug\net6.0\Day002.runtimeconfig.json
+C:\repo\100-days-of-code\Day002\bin\Debug\net6.0\Day002.dll
+C:\repo\100-days-of-code\Day002\bin\Debug\net6.0\ref\Day002.dll
+C:\repo\100-days-of-code\Day002\bin\Debug\net6.0\Day002.pdb
+C:\repo\100-days-of-code\Day002\obj\Debug\net6.0\Day002.csproj.AssemblyReference.cache
+C:\repo\100-days-of-code\Day002\obj\Debug\net6.0\Day002.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\100-days-of-code\Day002\obj\Debug\net6.0\Day002.AssemblyInfoInputs.cache
+C:\repo\100-days-of-code\Day002\obj\Debug\net6.0\Day002.AssemblyInfo.cs
+C:\repo\100-days-of-code\Day002\obj\Debug\net6.0\Day002.csproj.CoreCompileInputs.cache
+C:\repo\100-days-of-code\Day002\obj\Debug\net6.0\Day002.dll
+C:\repo\100-days-of-code\Day002\obj\Debug\net6.0\ref\Day002.dll
+C:\repo\100-days-of-code\Day002\obj\Debug\net6.0\Day002.pdb
+C:\repo\100-days-of-code\Day002\obj\Debug\net6.0\Day002.genruntimeconfig.cache

@@ -19,6 +19,15 @@ As part of [100 Days of Code](https://www.100daysofcode.com/) i decided today to
 
 ## Log
 
+### Day 2
+
+Today started SOLID principle, at this moment got main idea about
+Single responsibility.
+Open/Closed.
+
+today's project was about how inheritance should add new stuff without altering original
+and keep class to only work with specific objective.
+
 ### Day 1
 
 Learned about abstract keyword in C# abstract and interface differences.
