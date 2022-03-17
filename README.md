@@ -19,6 +19,10 @@ As part of [100 Days of Code](https://www.100daysofcode.com/) i decided today to
 
 ## Log
 
+### Day 3
+
+Today was only about Liskov substitution principle, can't do examples
+but tomorrow can do a best effort on making examples of SOLID
 ### Day 2
 
 Today started SOLID principle, at this moment got main idea about
