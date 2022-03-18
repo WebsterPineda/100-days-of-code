@@ -19,6 +19,10 @@ As part of [100 Days of Code](https://www.100daysofcode.com/) i decided today to
 
 ## Log
 
+### Day 4
+Today i continue reading about ID principles of SOLID, tomorrow I'll
+do exercises trying to respect SOLID principles.
+
 ### Day 3
 
 Today was only about Liskov substitution principle, can't do examples
